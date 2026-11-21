@@ -81,7 +81,7 @@ For style customization, feature enhancement, container communication and other 
 
 ## Developers
 
-Pakey's development can not be without these Hackers. They contributed a lot of capabilities for Pake. Also, welcome to follow them! ❤️
+Pakey's development can not be without our team. They contributed a lot of capabilities for Pakey. Also, welcome to follow us! ❤️
 
 ## Support
 
